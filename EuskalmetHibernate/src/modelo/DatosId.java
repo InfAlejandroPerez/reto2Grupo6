@@ -1,4 +1,4 @@
-package EuskalmetHibernate;
+package modelo;
 // Generated 16 dic 2021 19:50:39 by Hibernate Tools 5.5.7.Final
 
 import java.util.Date;
